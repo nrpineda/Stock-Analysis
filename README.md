@@ -9,7 +9,7 @@ After automating our code through VBA, our outcomes are shown in the following t
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/111472338/214548235-1f6f87da-de5c-4b26-bfe1-d1db5a35c925.png)
 
-     ![Screenshot (93)](https://user-images.githubusercontent.com/111472338/214548252-e0cb6fee-cf94-40eb-8f60-32f0c973b684.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/111472338/214548252-e0cb6fee-cf94-40eb-8f60-32f0c973b684.png)
 
 These two tables portray the performance of these stocks for the years of 2017, and 2018. The values shadowed in green represent the an increase in performance or a positive return, while the values shadowed in read represent the stocks that had a negative return. 
 
